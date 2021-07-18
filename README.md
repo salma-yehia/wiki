@@ -1,7 +1,3 @@
-# <a href="https://leo-wiki.herokuapp.com/"> Live Demo</a>
+Wikipedia is a free online encyclopedia that consists of a number of encyclopedia entries on various topics.
 
-# <a href="https://github.com/LeoZorzoli/CS50-Web-Projects-List"> Other CS50 projects</a>
-
-# <a href="https://zorzolileonel.medium.com/markdown2-django-dbd59d83e172"> Markdown2 + Django - Tutorial</a>
-"# wiki" 
-"# wiki" 
+Each encyclopedia entry can be viewed by visiting that entry’s page. Visiting https://en.wikipedia.org/wiki/HTML, for example, shows the Wikipedia entry for HTML. Notice that the name of the requested page (HTML) is specified in the route /wiki/HTML. Recognize too, that the page’s content must just be HTML that your browser renders.
